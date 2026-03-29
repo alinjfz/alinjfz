@@ -153,7 +153,7 @@ Developed a dual-value RL model separating reward and punishment learning signal
 ---
 
 <p align="center">
-  <i>Open to ML Engineer, AI Engineer, and LLM/Agentic AI roles in London. Right to work in the UK (Graduate Visa).</i>
+  <i>Open to ML Engineer, AI Engineer, and LLM/Agentic AI roles in London.</i>
 </p>
 <p align="center">
   <i>If you're looking for someone who builds production AI systems, not just notebooks, let's talk.</i>
