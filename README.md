@@ -16,7 +16,7 @@ ML Engineer based in London with an MSc in Artificial Intelligence and Adaptive 
 
 Previously a Software Engineer at MedAll, where I delivered production features on a medical learning platform serving a high-traffic user base. I bring both research depth and production engineering discipline to everything I build.
 
-Currently exploring: **MCP (Model Context Protocol) for ML operations** · **Multi-agent systems with LangGraph** · **GPU-accelerated inference optimisation**
+Currently exploring: **MCP (Model Context Protocol) for ML operations** · **Multi-agent systems with LangGraph**
 
 <br/>
 
