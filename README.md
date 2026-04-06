@@ -144,7 +144,6 @@ Developed a dual-value RL model separating reward and punishment learning signal
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alinjfz&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=3B82F6&icon_color=3B82F6&text_color=c9d1d9" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=alinjfz&theme=github-dark-blue&hide_border=true&background=0D1117&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" width="48%" />
 </p>
 
