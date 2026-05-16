@@ -35,19 +35,11 @@ Currently exploring: **MCP (Model Context Protocol) for ML operations** · **Mul
 **MLOps & Infrastructure**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-
-**Data Engineering**
-
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 **Also Proficient In**
 
@@ -73,51 +65,49 @@ A dual-value reinforcement learning architecture that separates reward and punis
 
 `PyTorch` `OpenAI Gym` `Reinforcement Learning`
 
-<!-- [→ View Project](https://github.com/alinjfz/asymmetric-forgetting-rl) -->
+[→ View Project](https://github.com/alinjfz/asymmetric-forgetting-rl)
 
 </td>
 <td width="50%">
 
-### 📡 MCP Server: ML Model Registry
-**Model Context Protocol for ML operations**
+### 🤖 Career Mentor Graph
+**AI career guidance as a knowledge graph**
 
-An MCP server that lets AI assistants (Claude, Cursor, Copilot) manage ML model lifecycles through natural language: deploy models, compare versions, monitor metrics, and trigger retraining.
+Maps skills, gaps, and learning paths using graph reasoning and LLM-powered analysis. Surfaces personalised upskilling routes based on role targets and current skill state.
 
-`MCP` `Python` `FastAPI` `Docker`
+`Python` `Knowledge Graphs` `LLMs`
 
-<!-- [→ View Project](https://github.com/alinjfz/mcp-ml-registry) -->
+[→ View Project](https://github.com/alinjfz/CareerMentorGraph)
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### 🇬🇧 UK Job Market AI Radar
-**Real-time AI/ML job market intelligence**
+### 📄 Local Document RAG
+**PDF Q&A with source citations, runs locally**
 
-Scrapes UK job boards daily, uses LLMs to extract skills and trends, tracks Graduate Visa friendly positions, and generates weekly market intelligence reports. Built because I needed it.
+Upload PDFs, ask questions, get page-cited answers. Runs fully offline on a Raspberry Pi. LangChain retrieval pipeline with pgvector, FastAPI backend, React frontend, Docker Compose deployment.
 
-`Airflow` `LLM APIs` `PostgreSQL` `FastAPI` `Docker`
+`RAG` `LangChain` `pgvector` `Docker` `FastAPI`
 
-<!-- [→ View Project](https://github.com/alinjfz/uk-job-radar) -->
+[→ View Project](https://github.com/alinjfz/LocalDocRAG)
 
 </td>
 <td width="50%">
 
-### 🏥 MedAll Intelligence Layer
-**AI for medical education content**
+### 🌾 Crop Yield Forecasting
+**PyTorch MLP across 165 countries and 102 crops**
 
-RAG system purpose-built for medical learning: document Q&A with source citations, automatic quiz generation, clinical concept extraction. Inspired by 2 years of production experience at MedAll.
+Multi-source climate, soil, and land-cover data fused into a single MLP trained on 52K+ samples. R squared of 0.9452, Pearson r of 0.9681. One-year-ahead forecasts with per-country breakdown.
 
-`RAG` `LangChain` `Vector DB` `FastAPI` `NLP`
+`PyTorch` `MLP` `Climate Data` `scikit-learn`
 
-<!-- [→ View Project](https://github.com/alinjfz/medall-intelligence) -->
+[→ View Project](https://github.com/alinjfz/crop-yield-forecasting-mlp-pytorch)
 
 </td>
 </tr>
 </table>
-
-> **Note:** Projects marked with commented links are currently in development. Links will be added as each project goes live.
 
 <br/>
 
